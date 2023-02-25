@@ -1,0 +1,6 @@
+#loop
+iteration={1,2,3,4,5}
+for i in iteration:
+    print('iteration : ',i)
+
+print('Iteration done')
