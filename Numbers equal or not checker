@@ -1,0 +1,10 @@
+print("Enter the number 1 ")
+num = input()
+num = int(num)
+print("Enter the number 2 ")
+num2 = input()
+num2 = int(num2)
+if(num == num2):
+    print("Both are equal")
+else:
+    print("Both are not equal")
